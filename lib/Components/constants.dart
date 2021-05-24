@@ -6,4 +6,5 @@ class Constants {
   Color brickRed = Color.fromRGBO(184, 61, 15, 1);
   Color nightBlack = Color.fromRGBO(18, 18, 18, 1);
   Color peach = Color.fromRGBO(251, 100, 81, 1);
+  Color bluegrey = Color.fromRGBO(104, 113, 124, 1);
 }
